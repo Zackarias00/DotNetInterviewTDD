@@ -21,7 +21,6 @@ It helps you practice and internalize:
 * Async / await correctness
 * LINQ deferred execution
 * IDisposable patterns
-* Generics
 * Equality & value objects
 
 These are **core interview topics** for mid-to-senior .NET roles.
@@ -50,7 +49,6 @@ DotNetInterviewTDD/
         ├── AsyncTests.cs
         ├── LinqTests.cs
         ├── DisposableTests.cs
-        ├── GenericTests.cs
         └── EqualityTests.cs
 ```
 
@@ -114,7 +112,6 @@ Interviews reward **clarity and correctness**, not cleverness.
 | `AsyncTests`            | Proper async/await usage                 |
 | `LinqTests`             | Deferred vs eager execution              |
 | `DisposableTests`       | Resource cleanup patterns                |
-| `GenericTests`          | Type safety with generics                |
 | `EqualityTests`         | Value equality vs reference equality     |
 
 ---
@@ -141,7 +138,7 @@ If you can **code it and explain it**, you own the concept.
 * Day 4: Exceptions
 * Day 5: Async / Await
 * Day 6: LINQ + IDisposable
-* Day 7: Generics + Equality
+* Day 7: Equality
 
 Repeat the cycle without looking at previous solutions.
 
